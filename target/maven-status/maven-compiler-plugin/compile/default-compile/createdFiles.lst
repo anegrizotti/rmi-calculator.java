@@ -1,0 +1,7 @@
+com\mycompany\rpc_calculator\interfaces\MulInterface.class
+com\mycompany\rpc_calculator\interfaces\DivInterface.class
+com\mycompany\rpc_calculator\interfaces\SubInterface.class
+com\mycompany\rpc_calculator\Client.class
+com\mycompany\rpc_calculator\Server.class
+com\mycompany\rpc_calculator\interfaces\AddInterface.class
+com\mycompany\rpc_calculator\Impl.class
